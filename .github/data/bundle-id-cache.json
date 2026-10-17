@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Cache file tracking which apps have had their bundle IDs verified by OpenAI",
-  "last_full_scan": "2026-10-16T04:04:21.560Z",
+  "last_full_scan": "2026-10-17T03:55:10.552Z",
   "apps": {
     "1password": {
       "last_checked": "2026-01-15T09:38:57.586Z",
@@ -8980,7 +8980,7 @@
       "name": "Music Decoy"
     },
     "morgen": {
-      "last_checked": "2026-07-19T03:28:31.221Z",
+      "last_checked": "2026-10-17T03:55:10.544Z",
       "bundle_id": null,
       "status": "unknown",
       "methods_tried": [
